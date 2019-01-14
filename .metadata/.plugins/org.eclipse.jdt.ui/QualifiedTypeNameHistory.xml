@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.marcosstefani.weather.service.WeatherService"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.Api"/>
+<fullyQualifiedTypeName name="com.example.weatherapp.weatherApp.service.WeatherService"/>
+<fullyQualifiedTypeName name="com.marcosstefani.weather.dto.WeatherMapTimeDTO"/>
+<fullyQualifiedTypeName name="com.marcosstefani.weather.dto.WeatherAverageDTO"/>
+<fullyQualifiedTypeName name="com.example.weatherapp.weatherApp.dto.WeatherMapDTO"/>
+<fullyQualifiedTypeName name="com.example.weatherapp.weatherApp.dto.WeatherAverageDTO"/>
+<fullyQualifiedTypeName name="com.example.weatherapp.weatherApp.dto.WeatherMapTimeDTO"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="com.example.weatherapp.weatherApp.controller.WeatherController"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
